@@ -17,6 +17,9 @@ git stage -A
 git add .  <-- this one used for to add all files at a time.
 git commit -m "any one message" file-name
 git commit -m "any one message" file-name file-name..nth file-name 
-git commit -m "message"
+t commit -m "message"
+
+git
+
 
 
