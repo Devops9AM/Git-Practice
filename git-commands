@@ -11,9 +11,12 @@ git ass -A
 
 git stage file-name
 git stage file-name file-name .. nth file-name
-git stage .
 git stage *
 git stage --all
 git stage -A
+git add .  <-- this one used for to add all files at a time.
+git commit -m "any one message" file-name
+git commit -m "any one message" file-name file-name..nth file-name 
+git commit -m "message"
 
 
