@@ -1,0 +1,19 @@
+git --version
+git -V
+git status
+git clone URL of The repository
+git add file-name
+git add file-name file-name .. nth file-name
+git add .
+git add *
+git add --all
+git ass -A
+
+git stage file-name
+git stage file-name file-name .. nth file-name
+git stage .
+git stage *
+git stage --all
+git stage -A
+
+
